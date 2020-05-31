@@ -1,0 +1,22 @@
+{
+  "name": "unique-sum-of-two-integers-javascript",
+  "version": "1.0.0",
+  "description": "Find the two integers in an array that uniquely sum to a particular value (in JavaScript)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashtable/unique-sum-of-two-integers-javascript.git"
+  },
+  "author": "Ash Srinivas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ashtable/unique-sum-of-two-integers-javascript/issues"
+  },
+  "homepage": "https://github.com/ashtable/unique-sum-of-two-integers-javascript#readme",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
